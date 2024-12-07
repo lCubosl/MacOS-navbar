@@ -92,7 +92,7 @@ function App() {
             </a>
           </li>
           <li className="app" onMouseMove={handleAppHover}>
-            <a href="github.com/lCubosl" target="_blank">
+            <a href="https://github.com/lCubosl" target="_blank">
               <img src="./icons/github.png" />
               <span className="more-info">GitHub</span>
             </a>
